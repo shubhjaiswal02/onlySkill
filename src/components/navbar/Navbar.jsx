@@ -53,10 +53,10 @@ function Navbar() {
                 {currentUser.isSeller && (
                   <>
                     <Link className="link" to="/mygigs">
-                      Gigs
+                      Job
                     </Link>
                     <Link className="link" to="/add">
-                      Add New Gig
+                      Add New Job
                     </Link>
                   </>
                 )}

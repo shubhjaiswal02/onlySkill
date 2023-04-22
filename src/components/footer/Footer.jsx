@@ -31,8 +31,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Selling on onlySkills</span>
+            <span>Buying on onlySkills</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -47,12 +47,12 @@ function Footer() {
           </div>
           <div className="item">
             <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <span>onlySkills Business</span>
+            <span>onlySkills Pro</span>
+            <span>onlySkills Logo Maker</span>
+            <span>onlySkills Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>onlySkills Select</span>
             <span>ClearVoice</span>
             
           </div>
@@ -60,8 +60,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>onlySkills</h2>
+            <span>© onlySkills and ❤️</span>
           </div>
           <div className="right">
             <div className="social">

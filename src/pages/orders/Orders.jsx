@@ -32,7 +32,7 @@ const Orders = () => {
               />
             </td>
             <td>Stunning concept art</td>
-            <td>59.<sup>99</sup></td>
+            <td>59.<sup>00</sup></td>
             <td>Maria Anders</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
@@ -47,7 +47,7 @@ const Orders = () => {
               />
             </td>
             <td>Ai generated concept art</td>
-            <td>79.<sup>99</sup></td>
+            <td>79.<sup>00</sup></td>
             <td>Francisco Chang</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
@@ -62,7 +62,7 @@ const Orders = () => {
               />
             </td>
             <td>High quality digital character</td>
-            <td>110.<sup>99</sup></td>
+            <td>110.<sup>00</sup></td>
             <td>Roland Mendel</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
@@ -77,7 +77,7 @@ const Orders = () => {
               />
             </td>
             <td>Illustration hyper realistic painting</td>
-            <td>39.<sup>99</sup></td>
+            <td>39.<sup>00</sup></td>
             <td>Helen Bennett</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
@@ -92,7 +92,7 @@ const Orders = () => {
               />
             </td>
             <td>Original ai generated digital art</td>
-            <td>119.<sup>99</sup></td>
+            <td>119.<sup>00</sup></td>
             <td>Yoshi Tannamuri</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
@@ -107,7 +107,7 @@ const Orders = () => {
               />
             </td>
             <td>Text based ai generated art</td>
-            <td>49.<sup>99</sup></td>
+            <td>49.<sup>00</sup></td>
             <td>Giovanni Rovelli</td>
             <td>
               <img className="message" src="./img/message.png" alt="" />
