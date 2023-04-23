@@ -17,7 +17,7 @@ young professionals in the social sector and relevant knowledge for different jo
 
 ## Tech Stack
 
-**Client:** React js, Vite js, HTML, CSS, JS, JQuery
+**Client:** React js, Vite js, HTML, SCSS, JS, JQuery
 
 **Server:** Node, Express, Mongoose, MongoDB
 
@@ -82,3 +82,8 @@ yarn
 yarn dev
 
 ```
+
+Contributers :
+1. Hashit : https://github.com/harshit-tiwaari
+2. Arinjoy : https://github.com/arinjoy21PEC
+3. Shubh : https://github.com/shubhjaiswal02
